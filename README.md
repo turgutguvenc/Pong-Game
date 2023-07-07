@@ -47,4 +47,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was inspired by the classic Pong game.
+- https://www.udemy.com/course/100-days-of-code/learn/lecture/23416200#overview
 - Thanks to the [turtle](https://docs.python.org/3/library/turtle.html) module for providing a simple graphics library for Python.
